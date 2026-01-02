@@ -50,6 +50,7 @@ A curated list of tools and resources for Platform Engineering.
 ## Tooling— Feature flags, environments and change management
 - [OpenFeature - community-developed specification to standardise feature flag management](https://github.com/open-feature#welcome-to-the-openfeature-project-)
 - [Launchdarkly- feature flags paid service](https://launchdarkly.com/)
+- [Replane- dynamic configuration manager for feature flags, app settings, and config with version history and realtime sync](https://github.com/replane-dev/replane)
 - [Git Guide: Generate A Changelog From Your Git Commit Messages](https://mokkapps.de/blog/how-to-automatically-generate-a-helpful-changelog-from-your-git-commit-messages/)
 - [Update NPM, pip, Gem etc. dependencies](https://github.com/renovatebot/renovate)
 - [Upgrade microservices](https://www.jhipster.tech/upgrading-an-application/#-upgrading-an-application)
